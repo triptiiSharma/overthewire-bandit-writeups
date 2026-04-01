@@ -63,8 +63,8 @@ Each file inside the `levels/` directory corresponds to a single level transitio
 | Level 7 → 8 | [View](levels/level08.md) | Completed |
 | Level 8 → 9 | [View](levels/level09.md) | Completed |
 | Level 9 → 10 | [View](levels/level10.md) | Completed |
-| Level 10 → 11 | [View](levels/level11.md) | Pending |
-| Level 11 → 12 | [View](levels/level12.md) | Pending |
+| Level 10 → 11 | [View](levels/level11.md) | Completed |
+| Level 11 → 12 | [View](levels/level12.md) | Completed |
 | Level 12 → 13 | [View](levels/level13.md) | Pending |
 | Level 13 → 14 | [View](levels/level14.md) | Pending |
 | Level 14 → 15 | [View](levels/level15.md) | Pending |
