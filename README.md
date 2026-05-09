@@ -2,6 +2,7 @@
 
 > A structured, level-by-level documentation of the [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) wargame — built as a personal reference and a practical demonstration of foundational Linux and command-line security concepts explored through hands-on challenges.
 
+<br>
 
 ## About OverTheWire: Bandit
 
@@ -9,6 +10,7 @@
 
 Each level introduces progressively complex challenges centered around Linux file navigation, permissions, encoding, networking, and scripting — all of which form the foundation of real-world cybersecurity work.
 
+<br>
 
 ## Repository Structure
 
@@ -30,6 +32,7 @@ Each file in the `` directory corresponds to a single level transition and follo
 - **Walkthrough** — step-by-step breakdown of the solution with command explanations
 - **Key Takeaways** — Linux and security concepts introduced or reinforced
 
+<br>
 
 ## How to Use This Repository
 
@@ -40,6 +43,7 @@ Each file in the `` directory corresponds to a single level transition and follo
 
 > Note: This repository is intended as a **learning aid, not a shortcut**. Working through challenges yourself before consulting the writeups will yield the most value.
 
+<br>
 
 ## Concepts Covered
 
@@ -58,6 +62,7 @@ SSH, SSH key-based authentication, `telnet`, `netcat`, `openssl s_client`, `nmap
 **Linux Fundamentals**
 File permissions, user/group ownership, `/etc`, `/tmp`, `mktemp`, process management
 
+<br>
 
 ## Progress Tracker
 
@@ -99,6 +104,7 @@ File permissions, user/group ownership, `/etc`, `/tmp`, `mktemp`, process manage
 | 34 | [Level 32 → 33](level33.md) | — | ⏳ Pending |
 | 35 | [Level 33 → 34](level34.md) | — | ⏳ Pending |
 
+<br>
 
 ## Author
 
